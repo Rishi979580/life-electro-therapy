@@ -42,6 +42,10 @@ export function Header() {
             <a href="#about" className="text-foreground hover:text-primary transition-colors">
               About
             </a>
+            <a href="https://forms.gle/ycPTupJGJyrWjR3J8" className="text-foreground hover:text-primary transition-colors">
+              Patient Reg.
+            </a>
+
             <a href="#contact" className="text-foreground hover:text-primary transition-colors">
               Contact
             </a>
