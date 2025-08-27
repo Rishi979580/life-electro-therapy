@@ -6,14 +6,17 @@ import { ContactSection } from "@/components/contact-section"
 import { Footer } from "@/components/footer"
 import { Testimonials } from "@/components/testimonials"
 import { YoutubeVideos } from "@/components/youtube"
+import DoctorSection from "@/components/doctor"
 
 export default function HomePage() {
   return (
     <main className="min-h-screen">
       <Header />
       <HeroSection />
+      <DoctorSection />
       <ServicesSection />
       <AboutSection />
+     
       <Testimonials />
       <YoutubeVideos />
       <ContactSection />

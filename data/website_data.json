@@ -2,165 +2,182 @@
   "siteInfo": {
     "name": "लाईफ इलेक्ट्रो एक्यूप्रेशर थेरेपी हेल्थ सेंटर",
     "englishName": "Life Electro Acupressure Therapy Health Centre",
-    "tagline": "Natural Pain Relief & Healing",
-    "description": "Professional acupressure therapy for knee pain, cervical issues, back pain, constipation, sciatica, and paralysis. Experience natural healing with our expert electro-acupressure treatments."
+    "tagline": "प्राकृतिक दर्द से राहत और उपचार",
+    "description": "घुटने का दर्द, सर्वाइकल, कमर दर्द, कब्ज, साइटिका और लकवे जैसी समस्याओं का विशेषज्ञ एक्यूप्रेशर उपचार। प्राकृतिक और सुरक्षित थेरेपी का अनुभव करें।"
   },
+
+  "clinic_name": "लाईफ इलेक्ट्रो एक्यूप्रेशर थेरेपी हेल्थ सेंटर",
+
   "contact": {
     "phones": ["7380372792", "7309771948"],
     "address": {
-      "hindi": "सुभाष चौक (नहर रोड) कप्तानगंज, कुशीनगर",
-      "english": "Subhash chowk ( Nahar Road) kaptanganj, Kushinagar"
+      "hindi": "सुभाष चौक (नहर रोड), कप्तानगंज, कुशीनगर",
+      "english": "Subhash Chowk (Nahar Road), Kaptanganj, Kushinagar"
     },
     "workingHours": {
-      "weekdays": "Monday - Saturday: 9:00 AM - 8:00 PM",
-      "weekend": "Sunday: 10:00 AM - 6:00 PM",
-      "emergency": "Emergency consultations available on call"
+      "weekdays": "सोमवार - शनिवार: सुबह 9:00 बजे से रात 8:00 बजे तक",
+      "weekend": "रविवार: सुबह 10:00 बजे से शाम 6:00 बजे तक",
+      "emergency": "आपातकालीन परामर्श कॉल पर उपलब्ध"
     }
   },
+
   "hero": {
     "title": "लाईफ इलेक्ट्रो एक्यूप्रेशर थेरेपी हेल्थ सेंटर",
-    "subtitle": "Natural Pain Relief & Healing",
-    "description": "Professional acupressure therapy for knee pain, cervical issues, back pain, constipation, sciatica, and paralysis. Experience natural healing with our expert electro-acupressure treatments.",
+    "subtitle": "प्राकृतिक दर्द से राहत और उपचार",
+    "description": "घुटने, गर्दन, कमर दर्द, कब्ज, साइटिका और लकवे का इलेक्ट्रो-एक्यूप्रेशर द्वारा विशेषज्ञ उपचार।",
     "buttons": {
-      "primary": "Book Appointment",
-      "secondary": "Learn More"
+      "primary": "अपॉइंटमेंट बुक करें",
+      "secondary": "और जानें"
     },
     "card": {
-      "title": "Expert Care Since Years",
-      "description": "Trusted by thousands of patients for natural pain relief"
+      "title": "वर्षों का अनुभव",
+      "description": "हज़ारों मरीजों का विश्वास और संतुष्टि"
     },
     "image": {
       "src": "/professional-acupressure-therapy-session-with-pati.png",
-      "alt": "Acupressure therapy session"
+      "alt": "एक्यूप्रेशर थेरेपी सेशन"
     }
   },
+
   "services": {
-    "title": "Our Specialized Treatments",
-    "description": "We offer comprehensive electro-acupressure therapy for various health conditions using natural healing methods and modern techniques.",
+    "title": "हमारी विशेष सेवाएँ",
+    "description": "प्राकृतिक उपचार पद्धति और आधुनिक इलेक्ट्रो तकनीक से विभिन्न रोगों का समाधान।",
+
+    
     "list": [
-      {
-        "icon": "Bone",
-        "title": "Knee Pain Treatment",
-        "description": "Specialized electro-acupressure therapy for knee joint pain, arthritis, and mobility issues.",
-        "badge": "Most Popular"
-      },
-      {
-        "icon": "Brain",
-        "title": "Cervical Pain Relief",
-        "description": "Effective treatment for neck pain, cervical spondylosis, and related headaches.",
-        "badge": "Effective"
-      },
-      {
-        "icon": "Activity",
-        "title": "Back Pain Therapy",
-        "description": "Comprehensive treatment for lower back pain, disc problems, and muscle tension.",
-        "badge": "Proven Results"
-      },
-      {
-        "icon": "Heart",
-        "title": "Digestive Health",
-        "description": "Natural treatment for constipation, digestive disorders, and stomach-related issues.",
-        "badge": "Natural"
-      },
-      {
-        "icon": "Zap",
-        "title": "Sciatica Treatment",
-        "description": "Targeted therapy for sciatic nerve pain, leg numbness, and related symptoms.",
-        "badge": "Advanced"
-      },
-      {
-        "icon": "Stethoscope",
-        "title": "Paralysis Recovery",
-        "description": "Supportive therapy for paralysis patients to improve mobility and nerve function.",
-        "badge": "Specialized"
-      }
-    ]
+  {
+    "icon": "Bone",
+    "title": "घुटनों का दर्द",
+    "description": "आर्थराइटिस, जोड़ों का दर्द और चलने-फिरने में कठिनाई का विशेष उपचार।",
+    "badge": "सबसे लोकप्रिय",
+    "image": "/services/Back-Pain.png"
   },
+  {
+    "icon": "Brain",
+    "title": "गर्दन दर्द (सर्वाइकल)",
+    "description": "सर्वाइकल, गर्दन जकड़न और सिरदर्द का प्रभावी इलाज।",
+    "badge": "प्रभावी",
+    "image": "/services/Neck-Pain.png"
+  },
+  {
+    "icon": "Activity",
+    "title": "कमर दर्द",
+    "description": "कमर और डिस्क से संबंधित दर्द का सम्पूर्ण समाधान।",
+    "badge": "सिद्ध परिणाम",
+    "image": "/services/Back-Pain.png"
+  },
+  {
+    "icon": "Heart",
+    "title": "पाचन स्वास्थ्य",
+    "description": "कब्ज और अन्य पेट की समस्याओं का प्राकृतिक उपचार।",
+    "badge": "प्राकृतिक",
+    "image": "/services/Constipation.png"
+  },
+  {
+    "icon": "Zap",
+    "title": "साइटिका",
+    "description": "साइटिक नर्व दर्द और पैरों में सुन्नपन का इलाज।",
+    "badge": "आधुनिक",
+    "image": "/services/Leg.png"
+  },
+  {
+    "icon": "Stethoscope",
+    "title": "लकवा (Paralysis) रिकवरी",
+    "description": "लकवे के मरीजों के लिए सहायक और लाभकारी थेरेपी।",
+    "badge": "विशेषज्ञ",
+    "image": "/services/Paralysis.png"
+  }
+]
+
+
+  },
+
   "about": {
-    "title": "Why Choose Life Electro Acupressure?",
-    "description": "We combine traditional acupressure techniques with modern electro-therapy to provide effective, natural healing solutions. Our approach focuses on treating the root cause of pain and promoting overall wellness.",
+    "title": "क्यों चुनें हमें?",
+    "description": "हम पारंपरिक एक्यूप्रेशर को आधुनिक इलेक्ट्रो-थेरेपी के साथ मिलाकर प्राकृतिक और प्रभावी उपचार प्रदान करते हैं। हमारा उद्देश्य केवल दर्द कम करना नहीं बल्कि रोग की जड़ पर काम करना है।",
     "features": [
       {
         "icon": "Award",
-        "title": "Expert Practitioners",
-        "description": "Certified and experienced acupressure therapists"
+        "title": "अनुभवी विशेषज्ञ",
+        "description": "प्रमाणित और प्रशिक्षित एक्यूप्रेशर थेरेपिस्ट"
       },
       {
         "icon": "Users",
-        "title": "Thousands Treated",
-        "description": "Successfully helped numerous patients recover"
+        "title": "हज़ारों संतुष्ट मरीज",
+        "description": "लाखों लोगों को स्वास्थ्य लाभ पहुँचाया"
       },
       {
         "icon": "Clock",
-        "title": "Flexible Timings",
-        "description": "Convenient appointment slots to fit your schedule"
+        "title": "लचीला समय",
+        "description": "आपकी सुविधा के अनुसार अपॉइंटमेंट"
       },
       {
         "icon": "CheckCircle",
-        "title": "Natural Healing",
-        "description": "Drug-free treatment with no side effects"
+        "title": "प्राकृतिक उपचार",
+        "description": "दवाइयों से मुक्त, बिना किसी दुष्प्रभाव के इलाज"
       }
     ],
     "card": {
-      "title": "Modern Facilities",
-      "description": "Clean, comfortable treatment rooms equipped with the latest electro-acupressure technology for optimal healing results.",
+      "title": "आधुनिक सुविधाएँ",
+      "description": "साफ-सुथरे और आरामदायक ट्रीटमेंट रूम्स, आधुनिक इलेक्ट्रो-एक्यूप्रेशर मशीनों से लैस।",
       "image": {
         "src": "/modern-acupressure-clinic-interior-with-treatment-.png",
-        "alt": "Our clinic interior"
+        "alt": "हमारा क्लिनिक इंटीरियर"
       }
     }
   },
+
   "contactForm": {
-    "title": "Send us a Message",
+    "title": "संदेश भेजें",
     "fields": {
       "name": {
-        "label": "Full Name",
-        "placeholder": "Your full name"
+        "label": "पूरा नाम",
+        "placeholder": "अपना नाम लिखें"
       },
       "phone": {
-        "label": "Phone Number",
-        "placeholder": "Your phone number"
+        "label": "मोबाइल नंबर",
+        "placeholder": "अपना मोबाइल नंबर लिखें"
       },
       "condition": {
-        "label": "Health Condition",
-        "placeholder": "e.g., Knee pain, Back pain, Cervical"
+        "label": "स्वास्थ्य समस्या",
+        "placeholder": "जैसे - घुटनों का दर्द, कमर दर्द, सर्वाइकल"
       },
       "message": {
-        "label": "Message",
-        "placeholder": "Describe your symptoms or questions..."
+        "label": "संदेश",
+        "placeholder": "अपनी समस्या या सवाल लिखें..."
       }
     },
-    "submitButton": "Send Message"
+    "submitButton": "भेजें"
   },
+
   "navigation": {
     "items": [
-      { "label": "Home", "href": "#home" },
-      { "label": "Services", "href": "#services" },
-      { "label": "About", "href": "#about" },
-      { "label": "Contact", "href": "#contact" }
+      { "label": "होम", "href": "#home" },
+      { "label": "सेवाएँ", "href": "#services" },
+      { "label": "हमारे बारे में", "href": "#about" },
+      { "label": "संपर्क करें", "href": "#contact" }
     ]
   },
-    "footer": {
-      "title": "Life Electro Acupressure",
-      "description": "Dedicated to providing natural healing solutions through professional electro-acupressure therapy. Your health and wellness is our priority.",
-      "slogan": "Healing with care for 2024 years",
-      "quickLinks": [
-        { "label": "Home", "href": "#home" },
-        { "label": "Our Services", "href": "#services" },
-        { "label": "About Us", "href": "#about" },
-        { "label": "Contact", "href": "#contact" }
-      ],
-      "contactInfo": {
-        "phones": [
-          "7380372792", "7309771948"
-        ],
-        "address": {
-            "hindi": "सुभाष चौक (नहर रोड) कप्तानगंज, कुशीनगर",
-            "english": "Subhash chowk ( Nahar Road) kaptanganj, Kushinagar"
-          }
-      },
-      "copyright": "© 2024 Life Electro Acupressure Therapy Health Centre. All rights reserved."
-},
+
+  "footer": {
+    "title": "लाईफ इलेक्ट्रो एक्यूप्रेशर",
+    "description": "प्राकृतिक और सुरक्षित इलेक्ट्रो-एक्यूप्रेशर थेरेपी से स्वास्थ्य समाधान। आपका स्वास्थ्य, हमारी प्राथमिकता।",
+    "slogan": "2024 से उपचार और देखभाल में समर्पित",
+    "quickLinks": [
+      { "label": "होम", "href": "#home" },
+      { "label": "हमारी सेवाएँ", "href": "#services" },
+      { "label": "हमारे बारे में", "href": "#about" },
+      { "label": "संपर्क करें", "href": "#contact" }
+    ],
+    "contactInfo": {
+      "phones": ["7380372792", "7309771948"],
+      "address": {
+        "hindi": "सुभाष चौक (नहर रोड), कप्तानगंज, कुशीनगर",
+        "english": "Subhash Chowk (Nahar Road), Kaptanganj, Kushinagar"
+      }
+    },
+    "copyright": "© 2024 लाईफ इलेक्ट्रो एक्यूप्रेशर थेरेपी हेल्थ सेंटर. सभी अधिकार सुरक्षित।"
+  },
 
   "google_forms": {
     "formLink": "https://forms.gle/PE2bdvoBG7q4ssBY8"
@@ -168,65 +185,81 @@
 
   "youtube_videos": [
     {
-      "title": "Knee Pain Therapy",
+      "title": "घुटनों का दर्द उपचार",
       "url": "https://youtu.be/YqALK5DKZrc"
     },
     {
-      "title": "Cervical Relief Exercise",
+      "title": "गर्दन दर्द (Cervical) व्यायाम",
       "url": "https://youtu.be/rrMKrT15q74"
     },
     {
-      "title": "Back Pain Patient Review",
+      "title": "कमर दर्द मरीज का अनुभव",
       "url": "https://youtu.be/3RAw__JAD-8"
     }
-    
   ],
 
   "testimonials": [
     {
       "id": 1,
       "name": "राम कुमार",
-      "condition": "Knee Pain",
-      "message": "थेरेपी से मेरे घुटने का दर्द बहुत कम हो गया — धन्यवाद।",
+      "condition": "घुटनों का दर्द",
+      "message": "थेरेपी से मेरे घुटनों का दर्द बहुत कम हो गया — धन्यवाद।",
       "image": "/testimonials/ram kumar.jpeg"
     },
     {
       "id": 2,
       "name": "सीमा देवी",
-      "condition": "Back Pain",
-      "message": "कम इलाज में ही चलने में आराम मिलने लगा।",
+      "condition": "कमर दर्द",
+      "message": "कुछ ही समय में चलने में आराम मिलने लगा।",
       "image": "/testimonials/ram kumar.jpeg"
     },
     {
       "id": 3,
       "name": "अजय वर्मा",
-      "condition": "Cervical",
-      "message": "गरमाई और गर्दन के दर्द में काफी राहत मिली।",
+      "condition": "सर्वाइकल",
+      "message": "गर्दन के दर्द और जकड़न में काफी राहत मिली।",
       "image": "/testimonials/ram kumar.jpeg"
     },
     {
       "id": 4,
       "name": "पूनम सिंह",
-      "condition": "Constipation",
+      "condition": "कब्ज",
       "message": "पाचन में सुधार हुआ और कब्ज की समस्या दूर हुई।",
       "image": "/testimonials/ram kumar.jpeg"
     },
     {
       "id": 5,
       "name": "राकेश यादव",
-      "condition": "Sciatica",
-      "message": "साइयटिक दर्द में काफी आराम मिला।",
+      "condition": "साइटिका",
+      "message": "साइटिक दर्द में काफी आराम मिला।",
       "image": "/testimonials/ram kumar.jpeg"
     },
     {
       "id": 6,
       "name": "सुमित मिश्रा",
-      "condition": "Paralysis",
+      "condition": "लकवा",
       "message": "थेरेपी से मेरी चलने की क्षमता में सुधार हुआ।",
       "image": "/testimonials/ram kumar.jpeg"
     }
+  ],
+
+  "doctors": [
+    {
+      "name": "प्रेम सागर",
+      "degree": "M.D.A.M. Acu. Therapy (Rajasthan)",
+      "image": "/doctors/prem-sagar.jpeg"
+    },
+    {
+      "name": "प्रेम सागर",
+      "degree": "M.D.A.M. Acu. Therapy (Rajasthan)",
+      "image": "/doctors/prem-sagar.jpeg"
+    },
+    {
+      "name": "प्रेम सागर",
+      "degree": "M.D.A.M. Acu. Therapy (Rajasthan)",
+      "image": "/doctors/prem-sagar.jpeg"
+    }
+    
+    
   ]
 }
-
-
-
