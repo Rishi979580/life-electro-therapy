@@ -85,6 +85,9 @@ export function Header() {
               <a href="#about" className="block px-3 py-2 text-foreground hover:text-primary">
                 About
               </a>
+              <a href="https://forms.gle/ycPTupJGJyrWjR3J8" className="block px-3 py-2 text-foreground hover:text-primary">
+              Patient Reg
+            </a>
               <a href="#contact" className="block px-3 py-2 text-foreground hover:text-primary">
                 Contact
               </a>
