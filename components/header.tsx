@@ -43,7 +43,7 @@ export function Header() {
               About
             </a>
             <a href="https://forms.gle/ycPTupJGJyrWjR3J8" className="text-foreground hover:text-primary transition-colors">
-              Patient Reg.
+              Patient Reg
             </a>
 
             <a href="#contact" className="text-foreground hover:text-primary transition-colors">
