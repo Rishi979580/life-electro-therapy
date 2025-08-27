@@ -1,0 +1,232 @@
+{
+  "siteInfo": {
+    "name": "लाईफ इलेक्ट्रो एक्यूप्रेशर थेरेपी हेल्थ सेंटर",
+    "englishName": "Life Electro Acupressure Therapy Health Centre",
+    "tagline": "Natural Pain Relief & Healing",
+    "description": "Professional acupressure therapy for knee pain, cervical issues, back pain, constipation, sciatica, and paralysis. Experience natural healing with our expert electro-acupressure treatments."
+  },
+  "contact": {
+    "phones": ["7380372792", "7309771948"],
+    "address": {
+      "hindi": "सुभाष चौक (नहर रोड) कप्तानगंज, कुशीनगर",
+      "english": "Subhash chowk ( Nahar Road) kaptanganj, Kushinagar"
+    },
+    "workingHours": {
+      "weekdays": "Monday - Saturday: 9:00 AM - 8:00 PM",
+      "weekend": "Sunday: 10:00 AM - 6:00 PM",
+      "emergency": "Emergency consultations available on call"
+    }
+  },
+  "hero": {
+    "title": "लाईफ इलेक्ट्रो एक्यूप्रेशर थेरेपी हेल्थ सेंटर",
+    "subtitle": "Natural Pain Relief & Healing",
+    "description": "Professional acupressure therapy for knee pain, cervical issues, back pain, constipation, sciatica, and paralysis. Experience natural healing with our expert electro-acupressure treatments.",
+    "buttons": {
+      "primary": "Book Appointment",
+      "secondary": "Learn More"
+    },
+    "card": {
+      "title": "Expert Care Since Years",
+      "description": "Trusted by thousands of patients for natural pain relief"
+    },
+    "image": {
+      "src": "/professional-acupressure-therapy-session-with-pati.png",
+      "alt": "Acupressure therapy session"
+    }
+  },
+  "services": {
+    "title": "Our Specialized Treatments",
+    "description": "We offer comprehensive electro-acupressure therapy for various health conditions using natural healing methods and modern techniques.",
+    "list": [
+      {
+        "icon": "Bone",
+        "title": "Knee Pain Treatment",
+        "description": "Specialized electro-acupressure therapy for knee joint pain, arthritis, and mobility issues.",
+        "badge": "Most Popular"
+      },
+      {
+        "icon": "Brain",
+        "title": "Cervical Pain Relief",
+        "description": "Effective treatment for neck pain, cervical spondylosis, and related headaches.",
+        "badge": "Effective"
+      },
+      {
+        "icon": "Activity",
+        "title": "Back Pain Therapy",
+        "description": "Comprehensive treatment for lower back pain, disc problems, and muscle tension.",
+        "badge": "Proven Results"
+      },
+      {
+        "icon": "Heart",
+        "title": "Digestive Health",
+        "description": "Natural treatment for constipation, digestive disorders, and stomach-related issues.",
+        "badge": "Natural"
+      },
+      {
+        "icon": "Zap",
+        "title": "Sciatica Treatment",
+        "description": "Targeted therapy for sciatic nerve pain, leg numbness, and related symptoms.",
+        "badge": "Advanced"
+      },
+      {
+        "icon": "Stethoscope",
+        "title": "Paralysis Recovery",
+        "description": "Supportive therapy for paralysis patients to improve mobility and nerve function.",
+        "badge": "Specialized"
+      }
+    ]
+  },
+  "about": {
+    "title": "Why Choose Life Electro Acupressure?",
+    "description": "We combine traditional acupressure techniques with modern electro-therapy to provide effective, natural healing solutions. Our approach focuses on treating the root cause of pain and promoting overall wellness.",
+    "features": [
+      {
+        "icon": "Award",
+        "title": "Expert Practitioners",
+        "description": "Certified and experienced acupressure therapists"
+      },
+      {
+        "icon": "Users",
+        "title": "Thousands Treated",
+        "description": "Successfully helped numerous patients recover"
+      },
+      {
+        "icon": "Clock",
+        "title": "Flexible Timings",
+        "description": "Convenient appointment slots to fit your schedule"
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Natural Healing",
+        "description": "Drug-free treatment with no side effects"
+      }
+    ],
+    "card": {
+      "title": "Modern Facilities",
+      "description": "Clean, comfortable treatment rooms equipped with the latest electro-acupressure technology for optimal healing results.",
+      "image": {
+        "src": "/modern-acupressure-clinic-interior-with-treatment-.png",
+        "alt": "Our clinic interior"
+      }
+    }
+  },
+  "contactForm": {
+    "title": "Send us a Message",
+    "fields": {
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Your full name"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Your phone number"
+      },
+      "condition": {
+        "label": "Health Condition",
+        "placeholder": "e.g., Knee pain, Back pain, Cervical"
+      },
+      "message": {
+        "label": "Message",
+        "placeholder": "Describe your symptoms or questions..."
+      }
+    },
+    "submitButton": "Send Message"
+  },
+  "navigation": {
+    "items": [
+      { "label": "Home", "href": "#home" },
+      { "label": "Services", "href": "#services" },
+      { "label": "About", "href": "#about" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+    "footer": {
+      "title": "Life Electro Acupressure",
+      "description": "Dedicated to providing natural healing solutions through professional electro-acupressure therapy. Your health and wellness is our priority.",
+      "slogan": "Healing with care for 2024 years",
+      "quickLinks": [
+        { "label": "Home", "href": "#home" },
+        { "label": "Our Services", "href": "#services" },
+        { "label": "About Us", "href": "#about" },
+        { "label": "Contact", "href": "#contact" }
+      ],
+      "contactInfo": {
+        "phones": [
+          "7380372792", "7309771948"
+        ],
+        "address": {
+            "hindi": "सुभाष चौक (नहर रोड) कप्तानगंज, कुशीनगर",
+            "english": "Subhash chowk ( Nahar Road) kaptanganj, Kushinagar"
+          }
+      },
+      "copyright": "© 2024 Life Electro Acupressure Therapy Health Centre. All rights reserved."
+},
+
+  "google_forms": {
+    "formLink": "https://forms.gle/PE2bdvoBG7q4ssBY8"
+  },
+
+  "youtube_videos": [
+    {
+      "title": "Knee Pain Therapy",
+      "url": "https://youtu.be/YqALK5DKZrc"
+    },
+    {
+      "title": "Cervical Relief Exercise",
+      "url": "https://youtu.be/rrMKrT15q74"
+    },
+    {
+      "title": "Back Pain Patient Review",
+      "url": "https://youtu.be/3RAw__JAD-8"
+    }
+    
+  ],
+
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "राम कुमार",
+      "condition": "Knee Pain",
+      "message": "थेरेपी से मेरे घुटने का दर्द बहुत कम हो गया — धन्यवाद।",
+      "image": "/testimonials/ram kumar.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "सीमा देवी",
+      "condition": "Back Pain",
+      "message": "कम इलाज में ही चलने में आराम मिलने लगा।",
+      "image": "/testimonials/ram kumar.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "अजय वर्मा",
+      "condition": "Cervical",
+      "message": "गरमाई और गर्दन के दर्द में काफी राहत मिली।",
+      "image": "/testimonials/ram kumar.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "पूनम सिंह",
+      "condition": "Constipation",
+      "message": "पाचन में सुधार हुआ और कब्ज की समस्या दूर हुई।",
+      "image": "/testimonials/ram kumar.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "राकेश यादव",
+      "condition": "Sciatica",
+      "message": "साइयटिक दर्द में काफी आराम मिला।",
+      "image": "/testimonials/ram kumar.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "सुमित मिश्रा",
+      "condition": "Paralysis",
+      "message": "थेरेपी से मेरी चलने की क्षमता में सुधार हुआ।",
+      "image": "/testimonials/ram kumar.jpeg"
+    }
+  ]
+}
+
+
+
